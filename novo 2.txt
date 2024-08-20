@@ -1,0 +1,21 @@
+WHILE-loop-
+int i = 0;
+while (i < 3) {
+	printf("oi");
+	i++;
+}
+
+int i = 5;
+while (i > 0) {
+	printf("oi");
+	i--;
+
+
+}
+
+FOR-loop-
+for (int i=0;i<3;i++) { //poderia nao usar chaves, ja que o bloco de codigo cabe em uma linha;
+	printf("oi");
+}
+
+-o primeiro parametro eh onde começa/definição, o segundo o final, e o ultimo qual será a att;
